@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Create Navbar",
+    "description": "Add navbar using React",
+    "priority": "High",
+    "status": "To-Do",
+    "dueDate": "2025-02-10T10:00:00Z",
+    "createdAt": "2025-01-25T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Add Task Modal",
+    "description": "Popup form for adding tasks",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "dueDate": "2025-02-12T12:00:00Z",
+    "createdAt": "2025-01-26T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Save to LocalStorage",
+    "description": "Persist tasks after refresh",
+    "priority": "Low",
+    "status": "Completed",
+    "dueDate": "2025-02-08T15:00:00Z",
+    "createdAt": "2025-01-24T14:00:00Z"
+  }
+]
+
